@@ -1,0 +1,171 @@
+<html>
+	<head>
+		<title>GM RVC-SH</title>
+		<style>
+			{
+		padding: 0;
+		margin: 0;
+		
+}
+
+h1{
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 50px;
+	font-size:6em;
+	font-face:Arial;
+}	
+	</style>
+	
+	</head>
+	<body>
+		<h1>GM RVC-SH</h1>
+				
+<nav>
+						<ul>
+							<a href="file:///D:/4b/objetivos.HTML">
+			Objetivos
+		<a/>
+			<a href="file:///D:/4b/PRODUCTOS.HTML">
+			Productos
+		<a/>
+			<a href="file:///D:/4b/formularios.HTML">
+			Formularios
+		<a/>
+		
+<a href="https://chat.qwen.ai/c/guest">
+			naveguemos y resolvamos tu problema
+		<a/>
+
+
+							<style>
+nav ul{
+	background-color: #1a085e;
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+	font-size:2em;	
+											
+}font-face:Arial;
+nav li {
+	display:inline-flex;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+	padding: 30px;
+	width: 30px;
+}
+
+	nav a:hover {
+	background-color: black;
+	font-size:2em;	
+}											
+							</style>
+
+			
+						</ul>
+					</nav>
+<div class=¨contenido¨>
+												<div class=¨articulos¨> </div>
+												<div class=¨menu-secundario¨>
+												<div class=¨secciones¨>
+<body>												<div> 
+
+													<h2>Que es GM RVC-SH</h2>
+
+													<p>GM RVC-SH es una empresa destinada a brindar servicio de soporte tecnico a distancia <br /> Pero esta pagina tambien esta destinada a ofrecer <br /> Productos y PIEZAS de la parte interna de tu computador 
+</p>
+
+<style>
+h2{
+	text-align: center;
+	background: black;
+	color: white;
+	padding: 20px;
+}
+P{
+	text-align: center;
+	color: #1a085e;
+	font-size:2em;
+	font-face:Arial;
+}	
+	img {
+
+float: left;
+padding: .1em;
+
+}					
+</style>
+
+
+												</div>
+										</div>
+
+
+
+
+												 </div>			
+												 </div>
+											</div>
+
+
+<h2>COMO CONTACTARNOS</h2>
+<p>Contanctanos por via telefonica al 4446673727<br/>
+o contactate por correo electronico con nuestros tecnicos<br/>
+Tecnico Aaron Gamez:
+<a href="mailto:Jesusgamez20@cecyteslp.edu.mx">Enviar correo electrónico</a>
+Tecnico Gael Monsivais:
+<a href="mailto:gaelmonsivais1@cecyteslp.edu.mx">Enviar correo electrónico</a>
+
+
+</p>
+<p><q><i>GM RVC-SH</q><br/>siempre seremos tu mejor opcion</p>
+<img src="milogo.jpg"/>
+
+
+<video width="940" height="780" controls>
+  <source src="file:///C:/Users/52444/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/D280E037B65D9528DF34B813F6FFDCF9/Video%20de%20WhatsApp%202025-03-27%20a%20las%2018.04.49_d5a6ecde.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+<br/><br/><br/>
+<audio controls>
+  <source src="file:///D:/4b/aaronaudio.opus" type="audio/mp3">
+  Tu navegador no soporta la etiqueta de audio.
+</audio>
+
+<br/><br/><br/><br/><br/>
+	
+<h2>Formas de Pago con las que contamos</h2>
+
+													<p>1. Pasarelas de pago<br />
+En la actualidad, el pago con tarjeta de crédito o débito es el método de pago E-commerce más utilizado para comprar por internet. La mayoría de las tiendas en línea tienen implementado este método de pago gracias a su sencillez y rapidez. 
+
+A través de una pasarela de pago, el comprador utiliza su número de tarjeta de crédito o débito, que navega cifrado hasta la tienda donde se ha realizado la compra a través de un sistema SSL o TLS. 
+
+La pasarela de pagos, a su vez, contacta con la plataforma del banco del vendedor y le envía los datos de la tarjeta para procesar el pago de manera segura. <br />
+
+2. PayPal<br />
+La principal ventaja de PayPal es que es una forma de pago online fácil y rápida de activar.
+
+Además, PayPal garantiza la privacidad de la información del cliente, ya que no es necesario proporcionar ningún dato de las tarjetas de crédito o débito asociadas a las cuentas.<br />
+3. Pago Contra-reembolso<br />
+El método de pago online contra-reembolso es una opción que era muy popular en los inicios del comercio electrónico, especialmente en aquellos clientes que no tenían acceso a una tarjeta de crédito o débito. <br />
+
+4. Bizum<br />
+La popularidad de Bizum ha hecho que cada vez más tiendas online añadan esta forma de pago online para facilitar a sus clientes el pago con el móvil.<br />
+
+5. Pago a Plazos<br />
+El pago a plazos o financiación es una de las Tendencias Ecommerce más populares en la actualidad, especialmente en aquellas tiendas online en las que el ticket medio de compra es alto. <br />
+
+6. Transferencia Bancaria<br />
+La transferencia bancaria es uno de los métodos de pago más antiguos y todavía utilizado en algunos sectores del comercio electrónico.
+<br />
+7. Criptomonedas<br />
+Las Criptomonedas están basadas en la criptografía para realizar transacciones y tener un control de las nuevas monedas que se emiten. Como medio de pago, las monedas digitales utilizan la tecnología blockchain para garantizar la seguridad de las operaciones.<br />
+
+</p>
+<img src="sonrrie.jpg"/>
+	</body>
+</html>
